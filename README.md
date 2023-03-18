@@ -63,7 +63,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 #### Pragya
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-pragya-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-pragya-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/pragya-chaturvedi-95a179251)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-pragya-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Pragya1601)
 
