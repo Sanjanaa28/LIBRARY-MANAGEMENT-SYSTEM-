@@ -63,21 +63,21 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 #### Pragya
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Pragya-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-pragya-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-pragya-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
 
 #### Tisha 
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Tisha-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/tisha-124aa1256)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-tisha-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/tisha-124aa1256)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
 
 #### Saloni 
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/saloni-singh-15963b255)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-salonisingh-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/saloni-singh-15963b255)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/MahamAmjad)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-saloni--singh2005-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/saloni-singh2005)
 
 If you liked the repo then kindly support it by giving it a star ⭐.
 
