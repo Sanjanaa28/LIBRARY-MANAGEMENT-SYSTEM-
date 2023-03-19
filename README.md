@@ -71,7 +71,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-tisha-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/tisha-124aa1256)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-tishaaa123-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Tishaaa123)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-tishaaa123-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Tishaaa1234)
 
 #### Saloni 
 
